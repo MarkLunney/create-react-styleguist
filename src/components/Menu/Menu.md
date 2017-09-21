@@ -1,0 +1,5 @@
+Basic menu:
+
+```jsx
+<Menu />
+```
